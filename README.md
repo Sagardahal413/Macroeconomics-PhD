@@ -1,5 +1,5 @@
 # Macroeconomics-PhD
-This repository contains the files for assignmentments I performed for a PhD-level Macroeconomics course. The assignment specifics are created by the course professor. The repository includes the following files:
+This repository contains the files for assignments I performed for a PhD-level Macroeconomics course. The assignment specifics are created by the course professor. The repository includes the following files:
 
 1. **growth_model_Q.pdf**: This file contains the specifics of one sector growth model that is being solved using the dynamic programming method (see 2).
 2. **growth_model_code.ipynb**: It is a jupyter notebook file that performs value function iteration for growth model in 1.
